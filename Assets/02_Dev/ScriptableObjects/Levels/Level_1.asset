@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6145c91af889834b93da234b0a15034, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  desiredAccuracy: 0.7
+  ballContainer: {fileID: 5545346860213492079, guid: 582de448414aee849840a702996382de, type: 3}
+  levelBallCountList: 0f0000000a00000005000000
+  environmentOption: {fileID: 11400000, guid: bcedbe743acaa604d8fb924e78176475, type: 2}
+  levelBallsInfoList:
+  - {fileID: 11400000, guid: 4aa067ea92030eb41b6bdd22010a49b9, type: 2}
+  - {fileID: 11400000, guid: da6b73bfac31a214e959468ef00f144d, type: 2}
+  - {fileID: 11400000, guid: 99e41829eb975c74291f9621813118d9, type: 2}

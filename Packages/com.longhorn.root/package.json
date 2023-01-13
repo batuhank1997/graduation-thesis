@@ -1,0 +1,8 @@
+{
+  "name": "com.longhorn.root",
+  "displayName": "Longhorn Root Embedded Package",
+  "version": "1.0.0",
+  "dependencies": {
+    "com.unity.recorder": "2.5.5"
+  }
+}
